@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jashmika/static/css/main.f7128c6d.chunk.css",
+    "main.js": "/jashmika/static/js/main.69b6ee68.chunk.js",
+    "main.js.map": "/jashmika/static/js/main.69b6ee68.chunk.js.map",
+    "runtime-main.js": "/jashmika/static/js/runtime-main.e87334fe.js",
+    "runtime-main.js.map": "/jashmika/static/js/runtime-main.e87334fe.js.map",
+    "static/js/2.eadcd925.chunk.js": "/jashmika/static/js/2.eadcd925.chunk.js",
+    "static/js/2.eadcd925.chunk.js.map": "/jashmika/static/js/2.eadcd925.chunk.js.map",
+    "static/js/3.3ca7b47d.chunk.js": "/jashmika/static/js/3.3ca7b47d.chunk.js",
+    "static/js/3.3ca7b47d.chunk.js.map": "/jashmika/static/js/3.3ca7b47d.chunk.js.map",
+    "index.html": "/jashmika/index.html",
+    "static/css/main.f7128c6d.chunk.css.map": "/jashmika/static/css/main.f7128c6d.chunk.css.map",
+    "static/js/2.eadcd925.chunk.js.LICENSE.txt": "/jashmika/static/js/2.eadcd925.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e87334fe.js",
+    "static/js/2.eadcd925.chunk.js",
+    "static/css/main.f7128c6d.chunk.css",
+    "static/js/main.69b6ee68.chunk.js"
+  ]
+}
