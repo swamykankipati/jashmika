@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/jashmika/static/css/main.f7128c6d.chunk.css",
-    "main.js": "/jashmika/static/js/main.69b6ee68.chunk.js",
-    "main.js.map": "/jashmika/static/js/main.69b6ee68.chunk.js.map",
-    "runtime-main.js": "/jashmika/static/js/runtime-main.e87334fe.js",
-    "runtime-main.js.map": "/jashmika/static/js/runtime-main.e87334fe.js.map",
-    "static/js/2.eadcd925.chunk.js": "/jashmika/static/js/2.eadcd925.chunk.js",
-    "static/js/2.eadcd925.chunk.js.map": "/jashmika/static/js/2.eadcd925.chunk.js.map",
-    "static/js/3.3ca7b47d.chunk.js": "/jashmika/static/js/3.3ca7b47d.chunk.js",
-    "static/js/3.3ca7b47d.chunk.js.map": "/jashmika/static/js/3.3ca7b47d.chunk.js.map",
+    "main.css": "/jashmika/static/css/main.f6f61b35.chunk.css",
+    "main.js": "/jashmika/static/js/main.6de53e4d.chunk.js",
+    "main.js.map": "/jashmika/static/js/main.6de53e4d.chunk.js.map",
+    "runtime-main.js": "/jashmika/static/js/runtime-main.6e842823.js",
+    "runtime-main.js.map": "/jashmika/static/js/runtime-main.6e842823.js.map",
+    "static/js/2.f2159863.chunk.js": "/jashmika/static/js/2.f2159863.chunk.js",
+    "static/js/2.f2159863.chunk.js.map": "/jashmika/static/js/2.f2159863.chunk.js.map",
     "index.html": "/jashmika/index.html",
-    "static/css/main.f7128c6d.chunk.css.map": "/jashmika/static/css/main.f7128c6d.chunk.css.map",
-    "static/js/2.eadcd925.chunk.js.LICENSE.txt": "/jashmika/static/js/2.eadcd925.chunk.js.LICENSE.txt"
+    "static/css/main.f6f61b35.chunk.css.map": "/jashmika/static/css/main.f6f61b35.chunk.css.map",
+    "static/js/2.f2159863.chunk.js.LICENSE.txt": "/jashmika/static/js/2.f2159863.chunk.js.LICENSE.txt",
+    "static/media/bootstrap4.png": "/jashmika/static/media/bootstrap4.46d0fb44.png",
+    "static/media/css3.png": "/jashmika/static/media/css3.64f1a4bf.png",
+    "static/media/flask.png": "/jashmika/static/media/flask.9aeb44f3.png",
+    "static/media/html5.png": "/jashmika/static/media/html5.e31b44b5.png",
+    "static/media/javascript.png": "/jashmika/static/media/javascript.bf2d3d62.png",
+    "static/media/mysql.png": "/jashmika/static/media/mysql.da77f133.png",
+    "static/media/p2.jpeg": "/jashmika/static/media/p2.4a4c1caa.jpeg",
+    "static/media/pic.jpg": "/jashmika/static/media/pic.6da46498.jpg",
+    "static/media/python.png": "/jashmika/static/media/python.31b1f82f.png",
+    "static/media/react.png": "/jashmika/static/media/react.b4867a7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e87334fe.js",
-    "static/js/2.eadcd925.chunk.js",
-    "static/css/main.f7128c6d.chunk.css",
-    "static/js/main.69b6ee68.chunk.js"
+    "static/js/runtime-main.6e842823.js",
+    "static/js/2.f2159863.chunk.js",
+    "static/css/main.f6f61b35.chunk.css",
+    "static/js/main.6de53e4d.chunk.js"
   ]
 }
