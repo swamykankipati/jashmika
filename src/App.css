@@ -1,11 +1,9 @@
-button{
-  box-shadow: 2px 2px 2px 2px solid;
-  background-color: blue;
-  margin-right: auto;
-  margin-left: auto;
+.cut-text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
-div{
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
+.scrollbar::-webkit-scrollbar {
+  display: none;
 }
+
